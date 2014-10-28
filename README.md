@@ -1,2 +1,2 @@
-youtube-auto-replay
+Youtube AutoReplay
 ===================
